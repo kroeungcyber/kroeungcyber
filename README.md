@@ -1,4 +1,4 @@
-# Cybersecurity & GRC Specialist (NGO IT Support) | Driving Data Reconciliation and Denied-by-Default Security Frameworks in the Age of AI
+# NGO IT Support | Driving Data Reconciliation and Denied-by-Default
 
 <div align="center">
 
