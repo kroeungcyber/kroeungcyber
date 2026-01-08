@@ -100,7 +100,7 @@ Cybersecurity specialist with international relations background, building **sec
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=kroeungcyber&theme=dark&hide_border=true&background=0D1117&stroke=00A4EF&ring=0078D4&fire=FFB900&currStreakLabel=00A4EF)
+![GitHub Profile](https://img.shields.io/badge/GitHub-kroeungcyber-181717?style=for-the-badge&logo=github&logoColor=white)
 
 **Recent Contributions**
 <!-- GitHub Readme Activity Graph -->
