@@ -1,4 +1,4 @@
-# 🔐 Kroeung Cyber - Cybersecurity & GRC Specialist
+# 🔐 Cybersecurity & GRC Specialist (NGO IT Support) | Driving Data Reconciliation and Denied-by-Default Security Frameworks in the Age of AI
 
 <div align="center">
 
@@ -159,7 +159,7 @@ Cybersecurity specialist with international relations background, building **sec
 ### 🎯 Professional Philosophy
 > *"Security isn't a product, it's a process. Building secure digital ecosystems for vulnerable populations requires both technical expertise and cultural sensitivity."*
 
-**© 2025 Kroeung Cyber** | **Cybersecurity & GRC Specialist**
+**© 2025 KROEUNGCYBER**
 
 ![Footer](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
