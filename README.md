@@ -1,4 +1,4 @@
-# NGO IT Support | Driving Data Reconciliation and Denied-by-Default
+# NGO IT Support | Data Reconciliation and Denied-by-Default
 
 <div align="center">
 
