@@ -1,4 +1,4 @@
-# Kroeung Cyber - Cybersecurity & GRC Specialist
+# Cybersecurity & GRC Specialist
 
 Cybersecurity specialist with international relations background, building secure digital ecosystems for NGOs and law enforcement collaboration. Specialized in cybercrime investigation, digital forensics, and Microsoft 365 security implementations for high-risk environments.
 
