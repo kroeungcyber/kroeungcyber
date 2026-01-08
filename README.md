@@ -1,150 +1,166 @@
-# Cybersecurity & GRC Specialist
+# 🔐 Kroeung Cyber - Cybersecurity & GRC Specialist
 
-Cybersecurity specialist with international relations background, building secure digital ecosystems for NGOs and law enforcement collaboration. Specialized in cybercrime investigation, digital forensics, and Microsoft 365 security implementations for high-risk environments.
+<div align="center">
 
-## 📫 Contact
-- **Email:** grc@kroeungcyber.com
-- **Location:** Southeast Asia & International NGOs
-- **Timezone:** Asia/Phnom Penh (UTC+7)
-- **Available for:** Remote consultancy, contract work, security assessments
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kroeungcyber&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00A4EF&icon_color=0078D4&text_color=ffffff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kroeungcyber&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00A4EF&text_color=ffffff)
 
-## 🎯 Professional Summary
+![Profile Views](https://komarev.com/ghpvc/?username=kroeungcyber&color=0078D4&style=flat-square)
+![GitHub Followers](https://img.shields.io/github/followers/kroeungcyber?color=0078D4&style=flat-square)
 
-Cybersecurity professional with expertise in:
-- **NGO IT Support & Security** across Southeast Asia
-- **Digital Forensics & Incident Response**
-- **Microsoft 365 Security & Compliance**
-- **Governance, Risk & Compliance (GRC)**
-- **Security Operations & Threat Detection**
+</div>
 
-## 🛡️ Core Competencies
+## 👋 About Me
 
-### Security Operations & Incident Response
-- Threat Detection & Analysis (Splunk SIEM, Wireshark)
-- Vulnerability Assessment (Nmap, Burp Suite)
-- Incident Response & Forensic Investigations
-- Security Monitoring & Real-time Threat Analysis
+Cybersecurity specialist with international relations background, building **secure digital ecosystems** for NGOs and law enforcement collaboration. Specialized in **cybercrime investigation**, **digital forensics**, and **Microsoft 365 security** implementations for high-risk environments.
 
-### Digital Forensics
-- Disk Forensics (Autopsy, FTK Imager)
-- Network Analysis & Traffic Analysis
-- Evidence Management & Chain of Custody
-- Malware Analysis & Threat Intelligence
+<div align="center">
 
-### Microsoft 365 Security & Compliance
-- Microsoft Purview (DLP, Sensitivity Labels, Audit)
-- Entra ID (Conditional Access, MFA, Identity Protection)
-- Compliance Center & Policy Management
-- Collaboration Security (SharePoint/Teams administration)
+### 🚀 Quick Links
+[![Email](https://img.shields.io/badge/📧_grc@kroeungcyber.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:grc@kroeungcyber.com)
+[![Location](https://img.shields.io/badge/🌍_Southeast_Asia_&_International_NGOs-00A4EF?style=for-the-badge&logo=earth&logoColor=white)](#)
+[![Remote Work](https://img.shields.io/badge/💼_Open_to_Remote_Consultancy-7FBA00?style=for-the-badge&logo=remote&logoColor=white)](#)
 
-### Governance, Risk & Compliance
-- GDPR Implementation & Data Protection Controls
-- Privacy Policy Development for Vulnerable Populations
-- International Legislation & Cross-border Data Compliance
-- Security Frameworks & Denied-by-Default Approach
+</div>
 
-## 💼 Professional Experience
+## 🛠️ Tech Stack & Expertise
 
-### Security Implementation Lead
-**International NGO | Southeast Asia Operations** *(Current Role)*
+### 🔐 Cybersecurity Tools
+![Splunk](https://img.shields.io/badge/Splunk-Expert-000000?style=flat-square&logo=splunk)
+![Wireshark](https://img.shields.io/badge/Wireshark-Expert-1679A7?style=flat-square&logo=wireshark)
+![Nmap](https://img.shields.io/badge/Nmap-Expert-000000?style=flat-square&logo=nmap)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-Expert-FF6B6B?style=flat-square)
+![Autopsy](https://img.shields.io/badge/Autopsy-Expert-4A90E2?style=flat-square)
 
-- Organization-wide M365 security implementation with Purview DLP, Entra ID, MFA
-- Sensitive data protection with custom policies & compliance frameworks
-- Secure cloud migration with access controls & governance
-- Legal/donor compliance with centralized audit logging systems
-- Staff capacity building with security awareness training programs
+### ☁️ Microsoft 365 Security
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-Expert-0078D4?style=flat-square&logo=microsoft-365)
+![Azure AD](https://img.shields.io/badge/Azure_AD-Expert-0078D4?style=flat-square&logo=microsoft-azure)
+![Microsoft Defender](https://img.shields.io/badge/Microsoft_Defender-Proficient-0078D4?style=flat-square&logo=microsoft-defender)
+![Microsoft Purview](https://img.shields.io/badge/Microsoft_Purview-Expert-0078D4?style=flat-square&logo=microsoft)
 
-### Security Operations & Forensics Specialist
-**Threat Detection & Investigation**
+### 💻 Infrastructure & Scripting
+![Python](https://img.shields.io/badge/Python-Advanced-3776AB?style=flat-square&logo=python)
+![PowerShell](https://img.shields.io/badge/PowerShell-Advanced-5391FE?style=flat-square&logo=powershell)
+![Docker](https://img.shields.io/badge/Docker-Advanced-2496ED?style=flat-square&logo=docker)
+![Linux](https://img.shields.io/badge/Linux-Advanced-FCC624?style=flat-square&logo=linux)
+![Windows Server](https://img.shields.io/badge/Windows_Server-Advanced-0078D4?style=flat-square&logo=windows)
 
-- Splunk SIEM configuration with custom SPL for real-time threat identification
-- Network analysis using Wireshark for incident pattern recognition
-- Vulnerability assessment with Nmap and Burp Suite
-- Security lab environment setup with Docker and forensic tools
-- Incident response procedures for policy-aligned remediation
+## 📊 Core Competencies
 
-## 🛠️ Technical Skills
+<div align="center">
 
-### Security Tools & Platforms
-- **SIEM & Analytics:** Splunk, Wireshark, ELK Stack
-- **Network Security:** Nmap, Burp Suite, OWASP ZAP
-- **Digital Forensics:** Autopsy, FTK Imager, Volatility
-- **Cloud Security:** M365 Security, Azure Security, Cloud Compliance
+| **Domain** | **Expertise Level** | **Key Tools/Technologies** |
+|------------|-------------------|---------------------------|
+| **Security Operations & IR** | Expert | Splunk SIEM, Wireshark, Nmap, Burp Suite |
+| **Digital Forensics** | Expert | Autopsy, FTK Imager, Volatility, Network Analysis |
+| **M365 Security & Compliance** | Expert | Purview, Entra ID, Defender, Compliance Manager |
+| **Governance, Risk & Compliance** | Advanced | GDPR, Privacy Policies, International Legislation |
+| **Infrastructure Security** | Advanced | Firewalls, VPNs, SD-WAN, Zero-Trust Architecture |
 
-### Microsoft 365 Security Stack
-- Microsoft Purview (DLP, Information Protection, Audit)
-- Entra ID (Conditional Access, MFA, PIM)
-- Microsoft Defender (Endpoint, Cloud Apps, Office 365)
-- Compliance Manager (GDPR, regulatory frameworks)
+</div>
 
-### Infrastructure & Systems
-- **Operating Systems:** Windows Server, Linux, Active Directory
-- **Networking:** Firewalls, VPNs, SD-WAN, Segmentation
-- **Virtualization:** Docker, Hyper-V, VMware
-- **Scripting:** Python, PowerShell, Bash
+## 🏆 Notable Achievements
 
-## 🚀 Key Projects
+<div align="center">
 
-### Enterprise Security Architecture
+### 🛡️ Security Implementation Impact
+![Zero Breaches](https://img.shields.io/badge/🔒_Zero_Breaches_Since_Implementation-00A4EF?style=for-the-badge)
+![Attack Surface Reduction](https://img.shields.io/badge/📉_60%25_Attack_Surface_Reduction-7FBA00?style=for-the-badge)
+![GDPR Compliance](https://img.shields.io/badge/📋_100%25_Donor_Requirement_Satisfaction-FFB900?style=for-the-badge)
+
+</div>
+
+## 🚀 Featured Projects
+
+### 🔐 Enterprise Security Architecture
 **International NGO | Multi-country Deployment**
+> M365 Security Controls deployed across 5 Southeast Asian countries for 200+ users
 
-- M365 Security Controls deployed across 5 Southeast Asian countries
-- GDPR Compliance Framework for 200+ users improving donor confidence
-- Data Classification Policies for sensitive data protection
-- DLP & Access Controls for vulnerable population security
-- **Impact:** Zero breaches since implementation
+**Key Technologies:** `Microsoft 365` `Purview DLP` `Entra ID` `GDPR Compliance`
 
-### Secure Infrastructure Deployment
+**Impact:** 🛡️ Zero breaches since implementation | 🌍 5 countries secured | 👥 200+ users protected
+
+### 🛠️ Secure Infrastructure Deployment
 **Infrastructure Modernization | Security Enhancement**
+> SD-WAN configuration with Zero-Trust Architecture and centralized monitoring
 
-- SD-WAN configuration with security policies & threat prevention
-- Zero-Trust Architecture with network segmentation & access controls
-- Automated patch management & baseline enforcement systems
-- Centralized SIEM integration & logging for real-time visibility
-- **Result:** 60% attack surface reduction
+**Key Technologies:** `SD-WAN` `Zero-Trust` `SIEM Integration` `Automated Management`
 
-### Security Operations Lab
-**Training & Research Environment | Skill Development**
+**Result:** 📉 60% attack surface reduction | ⚡ Real-time threat visibility | 🔒 Network segmentation
 
-- Docker containerization for malware analysis & threat research
-- Network simulation for traffic analysis & packet capture
-- Automated vulnerability scanning workflows & reporting
-- Hands-on learning environment for team capacity building
-- **Purpose:** Threat research & skill development platform
+### 🧪 Security Operations Lab
+**Training & Research Environment**
+> Docker-based lab for malware analysis, network simulation, and vulnerability scanning
 
-## 🎓 Continuous Learning
+**Key Technologies:** `Docker` `Malware Analysis` `Network Simulation` `Automated Scanning`
 
-### Professional Development
-- **CompTIA Security+** - In Progress (Target: Q1 2025)
-- **Microsoft SC-900** - In Progress (Target: Q2 2025)
-- **Microsoft SC-200** - In Progress (Target: Q3 2025)
+**Purpose:** 🎓 Skill development platform | 🔬 Threat research environment | 🛡️ Hands-on training
 
-### Training Platforms
-- **TryHackMe:** Cybercrime Investigation, Digital Forensics
-- **Hack The Box:** Security Labs, Penetration Testing
-- **Microsoft Learn:** M365 Security, Azure Security
+## 📈 GitHub Activity
 
-## 🔧 Services Available
+<div align="center">
 
-- **Microsoft 365 Security Assessments & Implementation**
-- **Digital Forensics & Incident Response**
-- **Security Policy & Compliance Framework Development**
-- **Cybersecurity Training & Awareness Programs**
-- **Security Architecture Design for NGOs**
+![GitHub Streak](https://streak-stats.demolab.com/?user=kroeungcyber&theme=dark&hide_border=true&background=0D1117&stroke=00A4EF&ring=0078D4&fire=FFB900&currStreakLabel=00A4EF)
 
-## 🌟 Value Proposition
+**Recent Contributions**
+<!-- GitHub Readme Activity Graph -->
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kroeungcyber&theme=github-dark&hide_border=true&bg_color=0d1117&color=00A4EF&line=0078D4&point=FFB900)
 
-| Area | Benefit | Impact |
-|------|---------|--------|
-| **Immediate Value** | NGO security in high-risk environments | Zero breaches since implementation |
-| **Technical Depth** | M365 security & digital forensics | 60% attack surface reduction |
-| **Policy Awareness** | GDPR & international compliance | 100% donor requirement satisfaction |
-| **Remote Work Ready** | International team collaboration | Across 5 countries, multiple time zones |
-| **Training & Mentorship** | Cybersecurity awareness programs | 200+ staff trained, non-technical focus |
-| **Cost-Effective** | Resource-optimized solutions | 40% cost savings vs. enterprise solutions |
+</div>
+
+## 🎓 Certifications & Learning
+
+<div align="center">
+
+| **Certification** | **Status** | **Progress** |
+|-------------------|------------|--------------|
+| **CompTIA Security+** | In Progress | ![75%](https://progress-bar.dev/75/?width=200&title=75%) |
+| **Microsoft SC-900** | In Progress | ![60%](https://progress-bar.dev/60/?width=200&title=60%) |
+| **Microsoft SC-200** | In Progress | ![30%](https://progress-bar.dev/30/?width=200&title=30%) |
+
+### 🏆 Training Platforms
+![TryHackMe](https://img.shields.io/badge/TryHackMe-Advanced-88CC14?style=flat-square&logo=tryhackme)
+![Hack The Box](https://img.shields.io/badge/Hack_The_Box-Advanced-9FEF00?style=flat-square&logo=hackthebox)
+![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-Expert-0078D4?style=flat-square&logo=microsoft)
+
+</div>
+
+## 💼 Professional Services
+
+<div align="center">
+
+### 🔧 Available for Consultancy
+[![M365 Security Assessments](https://img.shields.io/badge/🔐_M365_Security_Assessments-0078D4?style=for-the-badge)](#)
+[![Digital Forensics & IR](https://img.shields.io/badge/🔍_Digital_Forensics_&_IR-00A4EF?style=for-the-badge)](#)
+[![Security Policy Development](https://img.shields.io/badge/📋_Security_Policy_Development-7FBA00?style=for-the-badge)](#)
+[![Cybersecurity Training](https://img.shields.io/badge/🎓_Cybersecurity_Training-FFB900?style=for-the-badge)](#)
+[![Security Architecture Design](https://img.shields.io/badge/🛡️_Security_Architecture_Design-F25022?style=for-the-badge)](#)
+
+</div>
+
+## 📬 Let's Connect
+
+<div align="center">
+
+**Ready to collaborate on securing your digital ecosystem.**
+
+[![Email](https://img.shields.io/badge/📧_Email_Me-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:grc@kroeungcyber.com)
+[![GitHub](https://img.shields.io/badge/💻_GitHub_Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kroeungcyber)
+[![Timezone](https://img.shields.io/badge/⏰_Asia/Phnom_Penh_(UTC+7)-00A4EF?style=for-the-badge&logo=clock&logoColor=white)](#)
+
+**Focus Areas:** NGOs, International Development, High-Risk Environments, Remote Consultancy
+
+</div>
 
 ---
 
-*"Security isn't a product, it's a process. Building secure digital ecosystems for vulnerable populations requires both technical expertise and cultural sensitivity."*
+<div align="center">
 
-© 2025 Kroeung Cyber | [GitHub Profile](https://github.com/kroeungcyber)
+### 🎯 Professional Philosophy
+> *"Security isn't a product, it's a process. Building secure digital ecosystems for vulnerable populations requires both technical expertise and cultural sensitivity."*
+
+**© 2025 Kroeung Cyber** | **Cybersecurity & GRC Specialist**
+
+![Footer](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+</div>
