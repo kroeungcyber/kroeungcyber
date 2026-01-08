@@ -2,8 +2,8 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kroeungcyber&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00A4EF&icon_color=0078D4&text_color=ffffff)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kroeungcyber&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00A4EF&text_color=ffffff)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kroeungcyber&theme=github_dark)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kroeungcyber&theme=github_dark)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kroeungcyber&color=0078D4&style=flat-square)
 ![GitHub Followers](https://img.shields.io/github/followers/kroeungcyber?color=0078D4&style=flat-square)
