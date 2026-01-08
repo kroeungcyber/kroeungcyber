@@ -1,4 +1,4 @@
-# Cybersecurity Professional & Digital Capability Builder 👨‍💻
+# Cybersecurity & GRC Specialist (NGO IT Support) | Driving Data Reconciliation and Denied-by-Default Security Frameworks in the Age of AI
 
 📧 Contact: grc@kroeungcyber.com  
 🌍 Focus: Southeast Asia & International NGOs
@@ -78,23 +78,3 @@ Cybersecurity specialist with international relations background, focused on bui
 - Malware analysis and attack vector research
 - Network traffic analysis exercises
 - Vulnerability scanning workflows
-
-## Work Experience
-### E-learning Officer & IT Security Support, Caritas Switzerland  
-**[2022-Present]**
-- Lead security implementation for e-learning platform
-- Developed data protection controls for vulnerable users
-- Configured Microsoft 365 security stack
-- Established secure network infrastructure
-
-### Previous Roles
-- Communication Associate (focused on secure data handling)
-- International News Columnist (data research/analysis)
-
-## Education
-**Royal University of Phnom Penh** - BA International Relations  
-*With cybersecurity specialization through:*
-- TryHackMe learning paths
-- Hack The Box challenges
-- Microsoft security certifications
-- Ongoing professional development
