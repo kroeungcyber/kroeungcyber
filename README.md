@@ -26,24 +26,24 @@ Cybersecurity specialist with international relations background, building **sec
 ## 🛠️ Tech Stack & Expertise
 
 ### 🔐 Cybersecurity Tools
-![Splunk](https://img.shields.io/badge/Splunk-Expert-000000?style=flat-square&logo=splunk)
-![Wireshark](https://img.shields.io/badge/Wireshark-Expert-1679A7?style=flat-square&logo=wireshark)
-![Nmap](https://img.shields.io/badge/Nmap-Expert-000000?style=flat-square&logo=nmap)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-Expert-FF6B6B?style=flat-square)
-![Autopsy](https://img.shields.io/badge/Autopsy-Expert-4A90E2?style=flat-square)
+![Splunk](https://img.shields.io/badge/Splunk-Advanced-000000?style=flat-square&logo=splunk)
+![Wireshark](https://img.shields.io/badge/Wireshark-Advanced-1679A7?style=flat-square&logo=wireshark)
+![Nmap](https://img.shields.io/badge/Nmap-Proficient-000000?style=flat-square&logo=nmap)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-Advanced-FF6B6B?style=flat-square)
+![Autopsy](https://img.shields.io/badge/Autopsy-Proficient-4A90E2?style=flat-square)
 
 ### ☁️ Microsoft 365 Security
-![Microsoft 365](https://img.shields.io/badge/Microsoft_365-Expert-0078D4?style=flat-square&logo=microsoft-365)
-![Azure AD](https://img.shields.io/badge/Azure_AD-Expert-0078D4?style=flat-square&logo=microsoft-azure)
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-Advanced-0078D4?style=flat-square&logo=microsoft-365)
+![Azure AD](https://img.shields.io/badge/Azure_AD-Advanced-0078D4?style=flat-square&logo=microsoft-azure)
 ![Microsoft Defender](https://img.shields.io/badge/Microsoft_Defender-Proficient-0078D4?style=flat-square&logo=microsoft-defender)
-![Microsoft Purview](https://img.shields.io/badge/Microsoft_Purview-Expert-0078D4?style=flat-square&logo=microsoft)
+![Microsoft Purview](https://img.shields.io/badge/Microsoft_Purview-Advanced-0078D4?style=flat-square&logo=microsoft)
 
 ### 💻 Infrastructure & Scripting
 ![Python](https://img.shields.io/badge/Python-Advanced-3776AB?style=flat-square&logo=python)
 ![PowerShell](https://img.shields.io/badge/PowerShell-Advanced-5391FE?style=flat-square&logo=powershell)
-![Docker](https://img.shields.io/badge/Docker-Advanced-2496ED?style=flat-square&logo=docker)
+![Docker](https://img.shields.io/badge/Docker-Proficient-2496ED?style=flat-square&logo=docker)
 ![Linux](https://img.shields.io/badge/Linux-Advanced-FCC624?style=flat-square&logo=linux)
-![Windows Server](https://img.shields.io/badge/Windows_Server-Advanced-0078D4?style=flat-square&logo=windows)
+![Windows Server](https://img.shields.io/badge/Windows_Server-Proficient-0078D4?style=flat-square&logo=windows)
 
 ## 📊 Core Competencies
 
@@ -51,11 +51,11 @@ Cybersecurity specialist with international relations background, building **sec
 
 | **Domain** | **Expertise Level** | **Key Tools/Technologies** |
 |------------|-------------------|---------------------------|
-| **Security Operations & IR** | Expert | Splunk SIEM, Wireshark, Nmap, Burp Suite |
-| **Digital Forensics** | Expert | Autopsy, FTK Imager, Volatility, Network Analysis |
-| **M365 Security & Compliance** | Expert | Purview, Entra ID, Defender, Compliance Manager |
-| **Governance, Risk & Compliance** | Advanced | GDPR, Privacy Policies, International Legislation |
-| **Infrastructure Security** | Advanced | Firewalls, VPNs, SD-WAN, Zero-Trust Architecture |
+| **Security Operations & IR** | Advanced | Splunk SIEM, Wireshark, Nmap, Burp Suite |
+| **Digital Forensics** | Advanced | Autopsy, FTK Imager, Volatility, Network Analysis |
+| **M365 Security & Compliance** | Advanced | Purview, Entra ID, Defender, Compliance Manager |
+| **Governance, Risk & Compliance** | Proficient | GDPR, Privacy Policies, International Legislation |
+| **Infrastructure Security** | Proficient | Firewalls, VPNs, SD-WAN, Zero-Trust Architecture |
 
 </div>
 
@@ -121,7 +121,7 @@ Cybersecurity specialist with international relations background, building **sec
 ### 🏆 Training Platforms
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-Advanced-88CC14?style=flat-square&logo=tryhackme)
 ![Hack The Box](https://img.shields.io/badge/Hack_The_Box-Advanced-9FEF00?style=flat-square&logo=hackthebox)
-![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-Expert-0078D4?style=flat-square&logo=microsoft)
+![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-Advanced-0078D4?style=flat-square&logo=microsoft)
 
 </div>
 
