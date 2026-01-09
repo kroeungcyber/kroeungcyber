@@ -114,9 +114,9 @@ Cybersecurity specialist with international relations background, building **sec
 
 | **Certification** | **Status** | **Progress** |
 |-------------------|------------|--------------|
-| **CompTIA Security+** | In Progress | ![75%](https://geps.dev/progress/75) |
-| **Microsoft SC-900** | In Progress | ![60%](https://geps.dev/progress/60) |
-| **Microsoft SC-200** | In Progress | ![30%](https://geps.dev/progress/30) |
+| **CompTIA Security+** | In Progress | ![75%](https://geps.dev/progress/75?cache=1) |
+| **Microsoft SC-900** | In Progress | ![60%](https://geps.dev/progress/60?cache=1) |
+| **Microsoft SC-200** | In Progress | ![30%](https://geps.dev/progress/30?cache=1) |
 
 ### 🏆 Training Platforms
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-Advanced-88CC14?style=flat-square&logo=tryhackme)
