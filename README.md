@@ -104,7 +104,7 @@ Cybersecurity specialist with international relations background, building **sec
 
 **Recent Contributions**
 <!-- GitHub Readme Activity Graph -->
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kroeungcyber&theme=github-dark&hide_border=true&bg_color=0d1117&color=00A4EF&line=0078D4&point=FFB900)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kroeungcyber&theme=github-dark&hide_border=true&bg_color=0d1117&color=00A4EF&line=0078D4&point=FFB900&cache=1)
 
 </div>
 
