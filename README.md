@@ -182,18 +182,6 @@ Migrated a legacy SOP library into a **governed vector search experience** with 
 
 ---
 
-## 📈 GitHub Activity
-
-<div align="center">
-
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kroeungcyber&theme=github_dark)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kroeungcyber&theme=github-dark&hide_border=true&bg_color=0d1117&color=00A4EF&line=0078D4&point=FFB900&cache=2)
-
-</div>
-
----
-
 ## 🤝 Let's Work Together
 
 <div align="center">
