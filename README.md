@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌏 Kroeung | NGO IT Support Engineer
+# NGO IT Support Engineer
 
 ### *Bridging Technology & Humanitarian Impact in Southeast Asia*
 
