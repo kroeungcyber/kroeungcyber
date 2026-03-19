@@ -38,6 +38,8 @@ Threat detection, log correlation, and response playbooks. Built in Splunk with 
 
 ## Architecture
 
+<div align="center">
+
 ```
 ┌─────────────────────────────────────────────────────────┐
 │                    End Users                             │
@@ -49,20 +51,22 @@ Threat detection, log correlation, and response playbooks. Built in Splunk with 
 └─────────────────────┬───────────────────────────────────┘
                       │
 ┌─────────────────────▼───────────────────────────────────┐
-│            Microsoft Entra ID                           │
+│            Microsoft Entra ID                            │
 │   (Zero-Trust: CA Policies, MFA, Device Compliance)     │
 └─────────────────────┬───────────────────────────────────┘
                       │
 ┌─────────────────────▼───────────────────────────────────┐
-│         Microsoft Purview + Splunk SIEM                │
-│   (Data Governance, Compliance Monitoring, Alerting)   │
+│         Microsoft Purview + Splunk SIEM                 │
+│   (Data Governance, Compliance Monitoring, Alerting)    │
 └─────────────────────┬───────────────────────────────────┘
                       │
 ┌─────────────────────▼───────────────────────────────────┐
-│         Power Automate + AI Agents                     │
-│      (Workflow Automation, Ticket Triage)              │
+│         Power Automate + AI Agents                      │
+│      (Workflow Automation, Ticket Triage)               │
 └─────────────────────────────────────────────────────────┘
 ```
+
+</div>
 
 ---
 
@@ -70,7 +74,7 @@ Threat detection, log correlation, and response playbooks. Built in Splunk with 
 
 | Microsoft SC-900 | Microsoft MS-900 | Google Cybersecurity | CompTIA Security+ |
 |:----------------:|:----------------:|:-------------------:|:-----------------:|
-| Security Fundamentals | M365 Fundamentals | In Progress | In Progress |
+| Security Fundamentals | M365 Fundamentals | Completed | Completed |
 
 ---
 
