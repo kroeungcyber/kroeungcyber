@@ -16,7 +16,14 @@ Civil society organizations handle sensitive beneficiary data but lack the resou
 
 ## Core Stack
 
-Microsoft Entra ID · Microsoft 365 · Microsoft Purview · Power Automate · Azure · Splunk SIEM · Claude Code · AI Agents
+![](https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![](https://img.shields.io/badge/Microsoft_365-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![](https://img.shields.io/badge/Microsoft_Purview-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![](https://img.shields.io/badge/Power_Automate-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
+![](https://img.shields.io/badge/Claude-FFDD00?style=flat-square&logo=anthropic&logoColor=black)
+![](https://img.shields.io/badge/AI_Agents-8B5CF6?style=flat-square&logo=bot&logoColor=white)
 
 ---
 
