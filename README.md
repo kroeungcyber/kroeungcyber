@@ -46,29 +46,30 @@ Threat detection, log correlation, and response playbooks. Built in Splunk with 
 ## Architecture
 
 ```
-╔══════════════════════════════════════════════════════════╗
-║                     End Users                              ║
-╚══════════════════════════════════╤══════════════════════╝
-                                     │
-╔══════════════════════════════════╪══════════════════════╗
-║       Microsoft 365 + SharePoint/Teams                    ║
-║     Sensitivity Labels · DLP · Access Controls          ║
-╚══════════════════════════════════╤══════════════════════╝
-                                     │
-╔══════════════════════════════════╪══════════════════════╗
-║                  Microsoft Entra ID                       ║
-║         Zero-Trust: CA Policies · MFA · Compliance        ║
-╚══════════════════════════════════╤══════════════════════╝
-                                     │
-╔══════════════════════════════════╪══════════════════════╗
-║            Microsoft Purview + Splunk SIEM                ║
-║        Data Governance · Compliance · Alerting           ║
-╚══════════════════════════════════╤══════════════════════╝
-                                     │
-╔══════════════════════════════════╪══════════════════════╗
-║              Power Automate + AI Agents                    ║
-║              Workflow Automation · Ticket Triage          ║
-╚══════════════════════════════════════════════════════════╝
+┌──────────────────────────────────────────────────────────────┐
+│                         End Users                            │
+└──────────────────────────────┬───────────────────────────────┘
+                               │
+┌──────────────────────────────▼───────────────────────────────┐
+│     Microsoft 365 (SharePoint · Teams · OneDrive)            │
+│     • Sensitivity Labels  • DLP  • Access Controls           │
+└──────────────────────────────┬───────────────────────────────┘
+                               │
+┌──────────────────────────────▼───────────────────────────────┐
+│                 Microsoft Entra ID                           │
+│     • Conditional Access  • MFA  • Device Compliance         │
+└──────────────────────────────┬───────────────────────────────┘
+                               │
+┌──────────────────────────────▼───────────────────────────────┐
+│          Microsoft Purview + Splunk SIEM                     │
+│     • Data Governance  • Compliance  • Monitoring/Alerts     │
+└──────────────────────────────┬───────────────────────────────┘
+                               │
+┌──────────────────────────────▼───────────────────────────────┐
+│         Power Automate + AI Agents                           │
+│     • Workflow Automation  • Incident/Ticket Triage          │
+└──────────────────────────────────────────────────────────────┘
+
 ```
 
 <small>Layers flow top-to-bottom: user access → M365 → identity → governance → automation</small>
