@@ -16,7 +16,7 @@ Civil society organizations handle sensitive beneficiary data but lack the resou
 
 ## Core Stack
 
-Microsoft Entra ID · Microsoft 365 · Microsoft Purview · Power Automate · Azure · Splunk SIEM
+Microsoft Entra ID · Microsoft 365 · Microsoft Purview · Power Automate · Azure · Splunk SIEM · Claude Code · AI Agents
 
 ---
 
