@@ -38,7 +38,7 @@ Threat detection, log correlation, and response playbooks. Built in Splunk with 
 
 ## Architecture
 
-<div align="center">
+<center>
 
 ```
 ┌─────────────────────────────────────────────────────────┐
@@ -66,7 +66,7 @@ Threat detection, log correlation, and response playbooks. Built in Splunk with 
 └─────────────────────────────────────────────────────────┘
 ```
 
-</div>
+</center>
 
 ---
 
