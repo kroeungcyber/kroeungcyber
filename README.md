@@ -42,6 +42,8 @@ I bring a background in International Relations to every engagement — translat
 
 I actively integrate AI agents into IT operations — reducing toil, accelerating triage, and enabling a lean team to operate at scale.
 
+<div align="center">
+
 | Workflow | AI Integration |
 |----------|---------------|
 | **Service Desk Triage** | AI agents classify, prioritize, and route tickets automatically |
@@ -50,11 +52,15 @@ I actively integrate AI agents into IT operations — reducing toil, acceleratin
 | **Documentation** | AI agents draft runbooks, SOPs, and knowledge base articles |
 | **Power Automate Flows** | Prompt-driven workflow generation for approval and archiving tasks |
 
+</div>
+
 > Currently running multi-agent pipelines using Claude Code with custom agent roles across engineering, security, and project management domains.
 
 ---
 
 ## Expertise
+
+<div align="center">
 
 | Domain | Capability |
 |--------|------------|
@@ -64,6 +70,8 @@ I actively integrate AI agents into IT operations — reducing toil, acceleratin
 | **M365 Administration** | SharePoint, Teams, Power Automate, Exchange, Purview |
 | **SOC & Incident Response** | Threat detection, Wireshark, Nmap, Burp Suite, Docker lab |
 | **E-Learning Systems** | LMS deployment, CMS hardening, user rights management |
+
+</div>
 
 ---
 
@@ -94,12 +102,16 @@ Docker-based SOC lab for incident response training. Network traffic analysis wi
 
 ## Certifications
 
+<div align="center">
+
 | Credential | Status |
 |------------|--------|
 | Microsoft SC-900 — Security Fundamentals | ![](https://geps.dev/progress/90?cache=1) |
 | Microsoft MS-900 — M365 Fundamentals | ![](https://geps.dev/progress/85?cache=1) |
 | Google Cybersecurity Certificate | ![](https://geps.dev/progress/80?cache=1) |
 | CompTIA Security+ | ![](https://geps.dev/progress/70?cache=1) |
+
+</div>
 
 ---
 
