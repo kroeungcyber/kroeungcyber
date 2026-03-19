@@ -38,37 +38,33 @@ Threat detection, log correlation, and response playbooks. Built in Splunk with 
 
 ## Architecture
 
-<table align="center">
-<tr><td>
-
 ```
-┌────────────────────────────────────────────────────────┐
-│                       End Users                         │
-└──────────────────────┬────────────────────────────────┘
-                       │
-┌──────────────────────▼────────────────────────────────┐
-│            Microsoft 365 + SharePoint/Teams            │
-│        (Sensitivity Labels, DLP, Access Controls)      │
-└──────────────────────┬────────────────────────────────┘
-                       │
-┌──────────────────────▼────────────────────────────────┐
-│                 Microsoft Entra ID                      │
-│      (Zero-Trust: CA Policies, MFA, Compliance)        │
-└──────────────────────┬────────────────────────────────┘
-                       │
-┌──────────────────────▼────────────────────────────────┐
-│            Microsoft Purview + Splunk SIEM             │
-│        (Governance, Compliance, Alerting)              │
-└──────────────────────┬────────────────────────────────┘
-                       │
-┌──────────────────────▼────────────────────────────────┐
-│               Power Automate + AI Agents               │
-│             (Automation, Ticket Triage)                │
-└────────────────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════════╗
+║                     End Users                              ║
+╚══════════════════════════════════╤══════════════════════╝
+                                     │
+╔══════════════════════════════════╪══════════════════════╗
+║       Microsoft 365 + SharePoint/Teams                    ║
+║     Sensitivity Labels · DLP · Access Controls          ║
+╚══════════════════════════════════╤══════════════════════╝
+                                     │
+╔══════════════════════════════════╪══════════════════════╗
+║                  Microsoft Entra ID                       ║
+║         Zero-Trust: CA Policies · MFA · Compliance        ║
+╚══════════════════════════════════╤══════════════════════╝
+                                     │
+╔══════════════════════════════════╪══════════════════════╗
+║            Microsoft Purview + Splunk SIEM                ║
+║        Data Governance · Compliance · Alerting           ║
+╚══════════════════════════════════╤══════════════════════╝
+                                     │
+╔══════════════════════════════════╪══════════════════════╗
+║              Power Automate + AI Agents                    ║
+║              Workflow Automation · Ticket Triage          ║
+╚══════════════════════════════════════════════════════════╝
 ```
 
-</td></tr>
-</table>
+<small>Layers flow top-to-bottom: user access → M365 → identity → governance → automation</small>
 
 ---
 
