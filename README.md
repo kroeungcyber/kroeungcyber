@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=120&section=header&text=kroeungcyber&fontSize=36&fontColor=ffffff&fontAlignY=65&desc=NGO+IT+Support+Engineer+%7C+AI-Augmented+Operations&descSize=14&descAlignY=85" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=120&section=header&text=KROEUNGCYBER&fontSize=36&fontColor=ffffff&fontAlignY=65&desc=NGO+IT+Support+Engineer+%7C+AI-Augmented+Operations&descSize=14&descAlignY=85" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=kroeungcyber&style=flat-square&color=0078D4&label=Profile+Views)](https://github.com/kroeungcyber)
 [![GitHub followers](https://img.shields.io/github/followers/kroeungcyber?style=flat-square&color=0078D4&label=Followers)](https://github.com/kroeungcyber)
