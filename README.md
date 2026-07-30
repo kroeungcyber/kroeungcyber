@@ -114,4 +114,6 @@ Multi-agent workflows that operate where resources are thin — lightweight, obs
 
 ## Contact
 
+Open to MLOps engineering roles, LLM deployment consulting, and AI governance work with mission-driven organizations.
+
 Phnom Penh, Cambodia · [LinkedIn](https://linkedin.com/in/kroeungcyber) · [Email](mailto:grc@kroeungcyber.com)
