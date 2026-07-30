@@ -108,7 +108,7 @@ Multi-agent workflows that operate where resources are thin — lightweight, obs
 
 ## Quick Stats
 
-| 5+ Years NGO IT | Cambodia Based | AI-Augmented Ops | Zero-Trust Specialist |
+| LLM Pipelines in Production | Secure-by-Default Deployments | NGO & Sensitive-Data Focus | Cambodia Based |
 
 ---
 
