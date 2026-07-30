@@ -1,8 +1,8 @@
 <div align="center">
 
-# IT Support Engineer
+# MLOps & LLM Engineering
 
-**Securing NGO infrastructure in resource-constrained environments**
+**Secure-by-default AI deployment for organizations handling sensitive data**
 
 </div>
 
