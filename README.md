@@ -16,14 +16,29 @@ Organizations handling sensitive data — NGOs, civil society groups, mission-dr
 
 ## Core Stack
 
-![](https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![](https://img.shields.io/badge/Microsoft_365-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-![](https://img.shields.io/badge/Microsoft_Purview-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-![](https://img.shields.io/badge/Power_Automate-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-![](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
+**LLM & AI Agents**
 ![](https://img.shields.io/badge/Claude-FFDD00?style=flat-square&logo=anthropic&logoColor=black)
-![](https://img.shields.io/badge/AI_Agents-8B5CF6?style=flat-square&logo=bot&logoColor=white)
+![](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![](https://img.shields.io/badge/AI_Agents-8B5CF6?style=flat-square&logo=probot&logoColor=white)
+
+**MLOps & Infrastructure**
+![](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![](https://img.shields.io/badge/Azure_ML-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+
+**Security & Governance**
+![](https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![](https://img.shields.io/badge/Microsoft_Purview-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
+![](https://img.shields.io/badge/Zero_Trust-FF0000?style=flat-square&logo=shield&logoColor=white)
+
+**Automation & Integration**
+![](https://img.shields.io/badge/Power_Automate-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![](https://img.shields.io/badge/Microsoft_365-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![](https://img.shields.io/badge/REST_APIs-009688?style=flat-square&logo=fastapi&logoColor=white)
 
 ---
 
