@@ -44,17 +44,17 @@ Organizations handling sensitive data — NGOs, civil society groups, mission-dr
 
 ## How I Work
 
-**Zero-Trust Security**
-Conditional Access, MFA enforcement, device compliance — without blocking the workflows NGOs depend on.
+**LLM Deployment & Prompt Engineering**
+Design and ship production LLM workflows — RAG pipelines, agentic systems, and structured output chains — with guardrails built in from the start, not bolted on after.
 
-**GRC & Data Governance**
-DLP policies, sensitivity labels, automated retention. Compliance mapped to real operational constraints.
+**Secure-by-Default MLOps**
+CI/CD pipelines for model deployment on Azure with access controls, audit logging, and data handling policies that satisfy compliance requirements before go-live.
 
-**AI-Powered Operations**
-Multi-agent pipelines for ticket triage, compliance monitoring, and documentation. Lean teams do more.
+**AI Governance & Risk**
+Threat modeling for LLM systems: prompt injection, data leakage, model misuse. Policies and controls mapped to what the organization actually handles — beneficiary data, health records, sensitive comms.
 
-**Incident Response**
-Threat detection, log correlation, and response playbooks. Built in Splunk with Wireshark and Nmap for training.
+**Automation at the Edge**
+Multi-agent workflows that operate where resources are thin — lightweight, observable, and recoverable when things go wrong in the field.
 
 ---
 
