@@ -62,32 +62,33 @@ Multi-agent workflows that operate where resources are thin — lightweight, obs
 
 ```
 ┌──────────────────────────────────────────────────────────────┐
-│                         End Users                            │
+│                      Data Sources                            │
+│        Sensitive docs · APIs · Structured records            │
 └──────────────────────────────┬───────────────────────────────┘
                                │
 ┌──────────────────────────────▼───────────────────────────────┐
-│     Microsoft 365 (SharePoint · Teams · OneDrive)            │
-│     • Sensitivity Labels  • DLP  • Access Controls           │
+│              Ingestion & Governance Layer                     │
+│    Microsoft Purview · DLP · Sensitivity Labels · Audit Log  │
 └──────────────────────────────┬───────────────────────────────┘
                                │
 ┌──────────────────────────────▼───────────────────────────────┐
-│                 Microsoft Entra ID                           │
-│     • Conditional Access  • MFA  • Device Compliance         │
+│                  LLM / Agent Pipeline                        │
+│     RAG · Prompt Guards · Structured Output · Tool Calls     │
 └──────────────────────────────┬───────────────────────────────┘
                                │
 ┌──────────────────────────────▼───────────────────────────────┐
-│          Microsoft Purview + Splunk SIEM                     │
-│     • Data Governance  • Compliance  • Monitoring/Alerts     │
+│              MLOps & Deployment (Azure)                      │
+│     CI/CD · Model Registry · Access Control · Monitoring     │
 └──────────────────────────────┬───────────────────────────────┘
                                │
 ┌──────────────────────────────▼───────────────────────────────┐
-│         Power Automate + AI Agents                           │
-│     • Workflow Automation  • Incident/Ticket Triage          │
+│           Identity & Zero-Trust Boundary                     │
+│     Microsoft Entra ID · Conditional Access · MFA            │
 └──────────────────────────────────────────────────────────────┘
 
 ```
 
-<small>Layers flow top-to-bottom: user access → M365 → identity → governance → automation</small>
+<small>Data flows top-to-bottom: raw input → governed ingestion → LLM pipeline → secure deployment → identity boundary</small>
 
 ---
 
