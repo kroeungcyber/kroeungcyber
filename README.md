@@ -10,7 +10,7 @@
 
 ## The Problem I Solve
 
-Civil society organizations handle sensitive beneficiary data but lack the resources for enterprise security teams. I bridge that gap — designing Zero-Trust environments that scale with lean teams and meet compliance requirements NGOs actually face.
+Organizations handling sensitive data — NGOs, civil society groups, mission-driven teams — are increasingly adopting LLMs and AI agents without a security-first foundation. I bridge that gap: designing and deploying MLOps pipelines and LLM workflows that are secure by default, compliant from day one, and built to operate in resource-constrained environments where a breach isn't just a technical failure — it's a human one.
 
 ---
 
