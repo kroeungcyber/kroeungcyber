@@ -98,6 +98,12 @@ Multi-agent workflows that operate where resources are thin — lightweight, obs
 |:----------------:|:----------------:|:-------------------:|:-----------------:|
 | Security Fundamentals | M365 Fundamentals | Completed | Completed |
 
+**In Progress**
+
+| AWS Cloud Practitioner | Azure AI Fundamentals (AI-900) | DeepLearning.AI MLOps |
+|:----------------------:|:------------------------------:|:---------------------:|
+| Cloud infrastructure for AI deployment | LLM services · Azure ML · Responsible AI | ML pipelines · monitoring · drift detection |
+
 ---
 
 ## Quick Stats
