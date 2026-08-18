@@ -67,4 +67,4 @@ Earlier security & infrastructure work: [nonprofit-security-toolkit](https://git
 
 Open to MLOps engineering roles, LLM deployment work, and AI governance consulting with mission-driven organizations.
 
-Phnom Penh, Cambodia · [LinkedIn](https://linkedin.com/in/kroeungcyber) · [Email](mailto:kroeungcyber@proton.com)
+Phnom Penh, Cambodia · [LinkedIn](https://linkedin.com/in/kroeungcyber) · [Email](mailto:kroeungcyber@proton.me)
