@@ -14,27 +14,30 @@ Four years running production IT infrastructure and security for an internationa
 
 ## Portfolio
 
-| Project | What it demonstrates | Stack | Status |
-|---|---|---|---|
-| [`secure-rag`](https://github.com/kroeungcyber/secure-rag) | RAG document Q&A for civil society orgs — offline-capable, denied-by-default auth, PII redaction, full audit logging | Python · LangChain · Chroma · FastAPI · Ollama · Docker | 🚧 In progress |
-| [`mlops-pipeline`](https://github.com/kroeungcyber/mlops-pipeline) | End-to-end CI/CD for ML: test → train → version → containerize → deploy → automated retraining | scikit-learn · MLflow · GitHub Actions · Docker | 🚧 In progress |
-| [`model-monitoring`](https://github.com/kroeungcyber/model-monitoring) | Post-deployment reliability: prediction logging, data/prediction drift detection, automated alerts | Evidently AI · Python · Docker | 📋 Planned |
-| [`llm-quantization-bench`](https://github.com/kroeungcyber/llm-quantization-bench) | Throughput / latency / quality trade-offs of quantized open-source LLMs on commodity hardware | llama.cpp · GGUF · Python | 📋 Planned |
-| [`k8s-deploy`](https://github.com/kroeungcyber/k8s-deploy) | Kubernetes deployment of the RAG stack with infrastructure-as-code | k3s · Terraform | 📋 Planned |
+Six public repositories, all with live CI and v0.1.0 releases:
 
-Earlier security & infrastructure work: [`nonprofit-security-toolkit`](https://github.com/kroeungcyber/nonprofit-security-toolkit) · [`m365-portfolio`](https://github.com/kroeungcyber/m365-portfolio) · [`kh-infra-care`](https://github.com/kroeungcyber/kh-infra-care)
+| Project | What it demonstrates | Stack | CI |
+|---|---|---|---|
+| [secure-rag](https://github.com/kroeungcyber/secure-rag) | RAG document Q&A for civil society orgs: denied-by-default auth, PII redaction, full audit logging, offline-capable | FastAPI · SQLite vec0/FTS5 · Ollama · Docker | [![CI](https://github.com/kroeungcyber/secure-rag/actions/workflows/ci.yml/badge.svg)](https://github.com/kroeungcyber/secure-rag/actions/workflows/ci.yml) |
+| [langchain-chroma-rag](https://github.com/kroeungcyber/langchain-chroma-rag) | The framework-stack comparison build of secure-rag: LCEL chain, hybrid EnsembleRetriever, persistent Chroma | LangChain · Chroma · Ollama | [![CI](https://github.com/kroeungcyber/langchain-chroma-rag/actions/workflows/ci.yml/badge.svg)](https://github.com/kroeungcyber/langchain-chroma-rag/actions/workflows/ci.yml) |
+| [k8s-deploy](https://github.com/kroeungcyber/k8s-deploy) | Kubernetes deployment of the RAG stack: default-deny NetworkPolicies, cert-manager TLS, infrastructure-as-code | k3s/k3d · Terraform · cert-manager | [![CI](https://github.com/kroeungcyber/k8s-deploy/actions/workflows/ci.yml/badge.svg)](https://github.com/kroeungcyber/k8s-deploy/actions/workflows/ci.yml) |
+| [mlops-pipeline](https://github.com/kroeungcyber/mlops-pipeline) | End-to-end CI/CD for ML: test → train → version → promote → containerize → retrain | scikit-learn · MLflow · GitHub Actions · Docker | [![CI](https://github.com/kroeungcyber/mlops-pipeline/actions/workflows/train.yml/badge.svg)](https://github.com/kroeungcyber/mlops-pipeline/actions/workflows/train.yml) |
+| [model-monitoring](https://github.com/kroeungcyber/model-monitoring) | Post-deployment reliability: prediction logging, data/prediction drift detection, automated alerts | Evidently AI · FastAPI | [![CI](https://github.com/kroeungcyber/model-monitoring/actions/workflows/ci.yml/badge.svg)](https://github.com/kroeungcyber/model-monitoring/actions/workflows/ci.yml) |
+| [llm-quantization-bench](https://github.com/kroeungcyber/llm-quantization-bench) | Throughput/latency/quality trade-offs of quantized open-source LLMs on commodity hardware | llama.cpp · GGUF · Python | [![CI](https://github.com/kroeungcyber/llm-quantization-bench/actions/workflows/ci.yml/badge.svg)](https://github.com/kroeungcyber/llm-quantization-bench/actions/workflows/ci.yml) |
+
+Earlier security & infrastructure work: [nonprofit-security-toolkit](https://github.com/kroeungcyber/nonprofit-security-toolkit) · [m365-portfolio](https://github.com/kroeungcyber/m365-portfolio)
 
 ---
 
 ## Core Stack
 
-**LLM Engineering** — RAG pipelines · LangChain · Hugging Face Transformers · prompt engineering · open-source model serving (Ollama, llama.cpp) · quantization (GGUF)
+**LLM Engineering** — RAG pipelines (hand-rolled ReAct loop and LangChain LCEL) · hybrid retrieval (RRF over vec0/FTS5, EnsembleRetriever) · prompt engineering · open-source model serving (Ollama, llama.cpp) · quantization (GGUF, F16 → Q4_K_M)
 
-**MLOps & DevOps** — Docker & Docker Compose · GitHub Actions CI/CD · MLflow · Evidently AI drift detection · FastAPI microservices
+**MLOps & DevOps** — Docker & Docker Compose · GitHub Actions CI/CD (including a k3d end-to-end smoke) · Terraform · MLflow (tracking, model registry, promotion gates) · Evidently AI drift detection · FastAPI microservices · Kubernetes (k3s)
 
-**Databases** — Chroma · Qdrant · PostgreSQL
+**Databases** — Chroma · SQLite (vec0 + FTS5) · PostgreSQL
 
-**Security & Governance** — Microsoft Entra ID (Conditional Access, MFA) · Microsoft Purview (DLP, sensitivity labels) · Zero-Trust architecture · audit-log design · threat modeling for LLM systems (prompt injection, data leakage)
+**Security & Governance** — Microsoft Entra ID (Conditional Access, MFA) · Microsoft Purview (DLP, sensitivity labels) · Zero-Trust architecture · default-deny Kubernetes NetworkPolicies · cert-manager TLS · audit-log design · threat modeling for LLM systems (prompt injection, data leakage)
 
 **Automation & Cloud** — Python · PowerShell · Microsoft 365 administration · Power Automate · SD-WAN
 
