@@ -25,7 +25,7 @@ technical failure — it's a human one.
 
 ## Portfolio
 
-Ten public repositories.
+Eleven public repositories.
 
 ### AI workflow automation & implementation
 
@@ -50,6 +50,12 @@ Ten public repositories.
 | Project | What it demonstrates | Stack |
 |---|---|---|
 | [university-ai-mapping](https://github.com/kroeungcyber/university-ai-mapping) | Scored AI opportunity map for a university process, plus a hands-on staff workshop ("draft, don't grade") | Markdown · prompt design · change management |
+
+### Speech & voice
+
+| Project | What it demonstrates | Stack |
+|---|---|---|
+| [voxcpm2-khmer-lora](https://github.com/kroeungcyber/voxcpm2-khmer-lora) | LoRA fine-tuning of VoxCPM2 (2B TTS) into a personalized Khmer narrator voice for instructional video | VoxCPM2 · LoRA · PyTorch · RunPod |
 
 Earlier security & infrastructure work: [nonprofit-security-toolkit](https://github.com/kroeungcyber/nonprofit-security-toolkit)
 
